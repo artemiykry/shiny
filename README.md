@@ -2,11 +2,15 @@
 
 # Packages
 
-1. Timex
-2. Logx
-3. Configx
-4. Runnerx
-5. Jobx
-6. Containerx + Appx
-7. Httpx
+1. timex
+2. logx
+3. supervisorx
+4. configx
+5. jobx
+6. containerx + appx
+7. httpx
 
+# TODO
+
+timex: add date type
+logx: fix trace handler `.WithGroup` format

@@ -13,5 +13,6 @@ require (
 	go.opentelemetry.io/otel v1.33.0 // indirect
 	go.opentelemetry.io/otel/metric v1.33.0 // indirect
 	go.opentelemetry.io/otel/trace v1.33.0 // indirect
+	go.uber.org/mock v0.5.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
